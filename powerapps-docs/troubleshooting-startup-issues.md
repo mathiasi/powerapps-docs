@@ -148,7 +148,7 @@ Most browsers allow settings to reflect the changes immediately. You may also cl
 
 ### Instructions for Safari (iOS)
 
-1. In Safari app, select **Safari**.
+1. In Settings app, select **Safari**.
 1. Select **Preferences**.
 1. Select **Privacy**.
 1. Ensure **Block all cookies** isn't selected.
